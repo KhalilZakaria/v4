@@ -1,15 +1,14 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Covid-19 tracking platform'
+cover: './covid.png'
+github: 'https://github.com/KhalilZakaria/Corona-track-in-Morocco-using-OpenLayers-and-Geoserver'
+
 tech:
-  - React
-  - Node.js
-  - Express
-  - Spotify Web API
+  - Geoserver
+  - Openlayers
+  - Arcgis Javascript API
 showInProjects: true
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+A web app for visualizing and tracking Covid-19 cases in morocco. partitionned by state, including statistics of the cureent situation, charts and more.

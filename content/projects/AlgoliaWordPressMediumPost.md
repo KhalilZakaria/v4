@@ -1,14 +1,15 @@
 ---
-date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+date: '2021-01-11'
+title: 'Incident report platform'
+github: 'https://github.com/KhalilZakaria/MINI_PFE-1'
+external: ''
 tech:
-  - Algolia
-  - WordPress
-  - PHP
-company: 'Upstatement'
+  - Spring boot J2E
+  - ANGULAR
+  - IONIC
+  - POSTGRESSQL
+
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+Building an mobile and web platform for incidents declaration including a full authentification system

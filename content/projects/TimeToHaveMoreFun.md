@@ -1,14 +1,14 @@
 ---
-date: '2020-01-10'
-title: 'Time to Have More Fun'
-github: 'https://github.com/bchiang7/time-to-have-more-fun'
-external: 'https://time-to-have-more-fun.now.sh/'
+date: '2020-06-10'
+title: 'NRU ONLINE'
+github: ''
+external: ''
 tech:
-  - Next.js
-  - Tailwind CSS
-  - Firebase
+  - IONIC
+  - ASP .NET API
+  - sql express
 company: ''
 showInProjects: true
 ---
 
-A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS
+Application for requesting Urban notes, it includes the full online workflow.

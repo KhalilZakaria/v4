@@ -1,14 +1,13 @@
 ---
-date: '3'
-title: 'OctoProfile'
-cover: './octoprofile.png'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+date: '1'
+title: 'Flight reservation system'
+cover: './vol.png'
+
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - ASP .NET CORE
+  - SQL SERVER
+
 showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repository stats with data visualizations of your top languages and stars. Sort through your top repos by number of stars, forks, and size.
+A full flight reservation system including accounts and roles management.

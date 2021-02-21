@@ -1,12 +1,12 @@
 ---
-date: '2018-12-29'
-title: 'Google Keep Clone'
-github: 'https://github.com/bchiang7/google-keep-vue-firebase'
-external: 'https://keep-vue.netlify.com/'
+date: '2020-03-15'
+title: 'City infractions report'
+github: ''
+external: ''
 tech:
-  - Vue
-  - Firebase
+  - Asp .NET
+  - Arcgis API for Javascript
 showInProjects: true
 ---
 
-A simple Google Keep clone built with Vue and Firebase.
+A GIS ecosystem built for enabling users to report any problem related to the city infrastructure.

@@ -1,14 +1,13 @@
 ---
-date: '2017-11-01'
-title: 'Apple Music Facebook Messenger Integration'
-github: ''
-external: 'https://www.theverge.com/2017/10/5/16433770/facebook-messenger-apple-music-bot-song-streaming'
+date: '2018-12-10'
+title: 'C GO GAME'
+github: 'https://github.com/KhalilZakaria/C-GO-GAME'
+external: ''
 tech:
-  - Ember
-  - JS
-  - SCSS
-company: 'Apple'
+  - C
+
 showInProjects: true
 ---
 
-Facebook Messenger chat bot extension featuring authentication and full song streaming from within the Messenger app. Read more about it on [The Verge](https://www.theverge.com/2017/10/5/16433770/facebook-messenger-apple-music-bot-song-streaming).
+A complex game developed with C langage,
+the GO game is very known in the eastern world and it includes many rules, you can choose between playing against a friend or vs the computer itself, you can also save the game.

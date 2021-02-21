@@ -1,15 +1,13 @@
 ---
-date: '2019-11-12'
-title: 'Building a Headless Mobile App CMS From Scratch'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/building-a-headless-mobile-app-cms-from-scratch-bab2d17744d9'
+date: '2020-05-10'
+title: 'E commerce platform'
+github: 'https://github.com/KhalilZakaria/Site-web-de-e-Shopping-with-J2E'
+external: ''
 tech:
-  - Node
-  - Express
-  - Firebase
-  - Vue
-company: 'Upstatement'
+  - JEE
+  - SQL SERVER
+
 showInProjects: true
 ---
 
-Find out how we built a custom headless CMS with Node, Express, and Firebase for a project at Upstatement
+We established an amazing e-commerce website including all basic features of an e-shop.
